@@ -11,6 +11,6 @@ def index():
     else:
         greeting = "Hello World"
         return render_template("index.html", greeting=greeting)
-    if __name__=="__main__":
+if __name__ == "__main__":
         app.run()
 
