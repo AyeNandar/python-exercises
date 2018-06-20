@@ -1,1 +1,1 @@
-It's my test file
+First let's print the whole file
