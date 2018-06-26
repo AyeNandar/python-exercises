@@ -1,5 +1,5 @@
 from sys import argv
-script,user_name = argv
+script, user_name = argv
 prompt='> '
 print("Hi ", user_name, "I m the", script," script.")
 print("Do you like me ", user_name,"?")

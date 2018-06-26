@@ -1,16 +1,16 @@
 import turtle
-turtle = turtle.Turtle ( )
+t = turtle.Turtle ( )
 for i in ["green","yellow","red","brown","purple","orange","black","brown","yellow"] * 10:
- turtle.color(i)
- turtle.left(4)
- turtle.forward(100)
- turtle.right(20)
- turtle.forward(20)
- turtle.backward(20)
- turtle.left(40)
- turtle.forward(20)
- turtle.backward(20)
- turtle.right(20)
- turtle.backward(100)
+   t.color(i)
+   t.left(4)
+   t.forward(100)
+   t.right(20)
+   t.forward(20)
+   t.backward(20)
+   t.left(40)
+   t.forward(20)
+   t.backward(20)
+   t.right(20)
+   t.backward(100)
     
 
